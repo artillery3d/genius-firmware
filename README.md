@@ -1,6 +1,6 @@
-# Firmware Support <img align="right" height="100" width="299" src="./buildroot/share/pixmaps/logo/FilamentOne-Logo.png" /><br>
+# Configuration Support 
 
-
+<img valign="top" align="left" height="100" width="299" src="./buildroot/share/pixmaps/logo/FilamentOne-Logo.png" />
 
 This configuration of firmware is supported by Eddie Moser. This is a configurtion specific for use with the Artillery Genius sold by www.filamentone.com . This is a fork off of the original firmware posted by Artillery and has been modified where we see fit to make sure it is safe and needed features are enabled.
 
