@@ -1,7 +1,7 @@
 # Firmware Support
 <img align="left" height="100" width="299" src="./buildroot/share/pixmaps/logo/FilamentOne-Logo.png" /><br>
 
-This configuration of firmware is supported by Eddie Moser. This is a configurtion specific for use with the Artillery Genisus sold by www.filamentone.com
+This configuration of firmware is supported by Eddie Moser. This is a configurtion specific for use with the Artillery Genius sold by www.filamentone.com
 
 ## Marlin 1.1
 
