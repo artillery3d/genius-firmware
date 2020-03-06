@@ -1,5 +1,10 @@
 # Marlin 3D Printer Firmware
-<img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
+<img align="right" src="./buildroot/share/pixmaps/logo/marlin-250.png" />
+
+## Firmware Support
+<img align="left" src="./buildroot/share/pixmaps/logo/FilamentOne-Logo.png" />
+
+This configuration of firmware is supported by Eddie Moser. This is a configurtion specific for use with the Artillery Genisus sold by www.filamentone.com
 
 ## Marlin 1.1
 
